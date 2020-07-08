@@ -5,4 +5,4 @@ Mr Lim Kit Siang is the current DAP MP for the Iskandar Puteri constituency in J
 
 This project is aimed at collecting all of these documents, cleaning them up, and publishing them as an authoritative archive of his ageing physical archive.
 
-This repository is up to date as of May 2020, and is currently maintained by Faiz Mustafa (hexth) with help from Ganasaraswathy, Hasful Zainuddin, Lee Chen Hong, Jonathan Fong, and Chin Pei Chi. 
+This repository is up to date as of May 2020, and is currently maintained by Faiz Mustafa with help from Ganasaraswathy, Hasful Zainuddin, Lee Chen Hong, Jonathan Fong, and Chin Pei Chi. 
